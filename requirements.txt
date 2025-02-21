@@ -1,0 +1,12 @@
+jupyter
+jupyterlab
+flaml
+xgboost
+scikit-learn
+rbo
+numpy
+pandas
+matplotlib
+seaborn
+pickle-mixin
+joblib
